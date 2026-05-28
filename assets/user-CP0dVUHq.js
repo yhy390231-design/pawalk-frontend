@@ -1,0 +1,1 @@
+var e=e=>Promise.resolve({data:{token:`mock-token-`+Date.now(),user:{username:e.username,role:`petowner`}}}),t=e=>{let t=e.role||`petowner`;return Promise.resolve({data:{token:`mock-token-`+Date.now(),user:{username:e.username,role:t}}})};export{e as n,t};

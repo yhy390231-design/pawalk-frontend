@@ -1,1 +1,0 @@
-import{n as e}from"./index-Csm9oqIt.js";var t=t=>e.post(`/accounts/users/register/`,t),n=t=>e.post(`/accounts/users/login/`,t);export{t as n,n as t};
